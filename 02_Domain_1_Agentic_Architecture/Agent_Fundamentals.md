@@ -7,4 +7,4 @@ An agentic system repeatedly calls Claude, inspects `stop_reason`, executes requ
 Do not parse response text to determine completion. Text may appear alongside a tool call. `stop_reason` is authoritative.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

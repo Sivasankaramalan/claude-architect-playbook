@@ -79,4 +79,4 @@ Note: this guide keeps a learning-oriented folder layout. The official exam call
 Use the blueprint to decide where to spend time. Domain 1 has the highest weight, but Domain 3 and Domain 4 together cover a large portion of the exam. The exam rarely asks isolated definitions; it usually asks what architecture decision best fixes a production failure.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

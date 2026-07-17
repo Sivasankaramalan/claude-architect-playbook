@@ -10,4 +10,4 @@ Single agents are simpler but suffer from tool overload, context overload, and s
 - Failures need independent retry or partial-result preservation.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

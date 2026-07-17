@@ -28,4 +28,4 @@ For each course or module, record:
 Do not copy course text, screenshots, quizzes, or assessments into this repository. Summarize concepts in your own words and link to official public resources where appropriate.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

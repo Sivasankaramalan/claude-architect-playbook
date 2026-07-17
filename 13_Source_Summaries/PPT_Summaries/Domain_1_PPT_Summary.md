@@ -41,4 +41,4 @@ Prompts influence behavior. Hooks and prerequisite gates enforce behavior. If th
 - Blaming a downstream agent when the coordinator decomposed the work too narrowly.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

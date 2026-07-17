@@ -13,4 +13,4 @@ Q: Tool use returns valid JSON but totals do not reconcile. What is missing?
 A: Semantic/business validation, possibly retry with specific feedback or conflict fields.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

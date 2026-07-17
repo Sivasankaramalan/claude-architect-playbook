@@ -25,4 +25,4 @@ Note: this repository keeps the folder layout requested by the owner. The offici
 - Aim for 900+ before the real exam.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

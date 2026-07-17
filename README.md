@@ -71,4 +71,4 @@ This guide aims to cover the full public study path: exam overview, domains, sce
 It intentionally does not include copied exam questions, private training materials, or raw source files. For production implementation details and current product behavior, always verify against official public Anthropic documentation.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

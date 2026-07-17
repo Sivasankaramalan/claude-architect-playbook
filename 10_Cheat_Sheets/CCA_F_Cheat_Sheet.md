@@ -158,4 +158,4 @@ For exam scenarios, remember that retrieval should preserve provenance and retur
 This cheat sheet removes private organization links and employer-specific readiness items. Keep future additions public-safe: no real exam questions, private training links, copied course content, credentials, or internal URLs.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

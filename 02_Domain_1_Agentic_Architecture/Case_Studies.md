@@ -9,4 +9,4 @@ Coordinator decomposes topic, spawns search and document agents, passes structur
 Agent identifies customer, looks up order, applies policy, escalates ambiguous or high-risk cases, and uses gates for refunds or account actions.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

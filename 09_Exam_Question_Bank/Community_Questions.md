@@ -23,4 +23,4 @@ D. Ask the model to report confidence before each refund.
 Correct answer: C. Financial actions require deterministic enforcement. Prompt instructions and examples improve likelihood but do not guarantee ordering.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

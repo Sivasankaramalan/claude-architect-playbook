@@ -12,4 +12,4 @@ Before making this repository public, confirm:
 Recommended public repo name: `ccaf-community-study-guide`, `claude-architect-foundations-study-guide`, or `claude-architect-public-guide`.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

@@ -36,4 +36,4 @@ A solution architect who can design and implement production Claude applications
 The exam is not documentation recall. It tests whether you can select the safest and most proportionate architecture for a production failure mode. Most questions describe a symptom and ask for the best fix. The correct answer usually addresses the root cause directly, while distractors are plausible but incomplete.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

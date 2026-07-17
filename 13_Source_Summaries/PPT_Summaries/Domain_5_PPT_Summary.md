@@ -47,4 +47,4 @@ Put durable rules and role constraints near the beginning. Put the current task,
 - Producing confident synthesis without source provenance.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

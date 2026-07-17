@@ -4,4 +4,4 @@
 - Record course names, completion dates, weak areas, and practice exam score changes.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

@@ -14,4 +14,4 @@
 For each scenario, write three things before reading answer options: the likely tools, the key risks, and the deterministic controls. This prevents distractors from steering your reasoning.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

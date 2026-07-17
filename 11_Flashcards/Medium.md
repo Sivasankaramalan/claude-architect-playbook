@@ -13,4 +13,4 @@ Q: Why is same-session self-review weak?
 A: The model is biased by its own generation context.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

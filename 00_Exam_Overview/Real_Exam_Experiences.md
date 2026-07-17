@@ -14,4 +14,4 @@
 - Treat every question as a production incident: what broke, why did it break, and what control prevents it next time?
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

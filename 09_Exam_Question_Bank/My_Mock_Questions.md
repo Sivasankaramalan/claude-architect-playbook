@@ -18,4 +18,4 @@ Scenario: An invoice extractor fabricates `PO-UNKNOWN` because `po_number` is re
 Answer: Make `po_number` optional and nullable with a description that null means absent.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

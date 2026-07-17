@@ -7,4 +7,4 @@ Use hub-and-spoke architecture. The coordinator selects subagents, passes contex
 If synthesis lacks citations even though search produced them, the coordinator probably failed to pass source metadata.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

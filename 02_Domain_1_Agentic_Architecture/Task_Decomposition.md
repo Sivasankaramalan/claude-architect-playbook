@@ -9,4 +9,4 @@ Broad topics must be decomposed broadly before specialist work begins. A report 
 - Multi-pass: per-item local analysis plus cross-item integration.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

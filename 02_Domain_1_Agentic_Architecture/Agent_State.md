@@ -9,4 +9,4 @@ Subagents do not share memory automatically. Each invocation receives only the p
 - Fresh start with summary: best when old tool results are stale.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

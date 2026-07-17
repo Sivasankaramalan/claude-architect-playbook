@@ -20,4 +20,4 @@
 Claude systems are probabilistic at the model layer. Production architecture adds deterministic boundaries around risk: schemas, validation, hooks, scoped tools, escalation gates, and human review.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

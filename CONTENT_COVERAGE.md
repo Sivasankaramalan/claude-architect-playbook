@@ -37,4 +37,4 @@ Use this repository as a structured revision companion:
 5. Track readiness with `14_Revision/Final_Checklist.md`.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

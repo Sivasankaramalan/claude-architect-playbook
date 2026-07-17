@@ -47,4 +47,4 @@ Use project-level MCP configuration for shared team integrations. Use user-level
 - Putting shared configuration only in a personal user-level file.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

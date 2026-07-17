@@ -16,4 +16,4 @@ Q: What should absent optional data become?
 A: `null`, not fabricated placeholders.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

@@ -30,4 +30,4 @@ Understand the concepts well enough to recognize scenario symptoms and choose th
 - Never bury critical instructions or findings in the middle of huge context.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

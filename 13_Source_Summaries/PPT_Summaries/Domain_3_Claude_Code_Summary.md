@@ -50,4 +50,4 @@ False positives are a production problem. If developers stop trusting automated 
 - Asking for "better review" instead of defining explicit review criteria.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

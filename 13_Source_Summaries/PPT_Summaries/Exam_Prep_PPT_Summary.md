@@ -39,4 +39,4 @@ The exam is scenario-based. You are usually given a production system, a failure
 - Wait until the last day to learn Claude Code configuration details.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

@@ -17,4 +17,4 @@
 - If a question uses guarantee, compliance, financial action, or security boundary language, look for code-level enforcement.
 ---
 
-Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. All rights reserved.
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.
