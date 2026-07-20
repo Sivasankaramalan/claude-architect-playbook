@@ -80,3 +80,7 @@ Full link list: [`official-resources.md`](./official-resources.md).
 - Sibling Architect guide: [`../../../architect/README.md`](../../../architect/README.md)
 - [Exam Blueprint](./exam-blueprint.md)
 - [Overview](./overview.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

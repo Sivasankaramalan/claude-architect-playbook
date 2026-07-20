@@ -116,3 +116,7 @@ Exam: **Claude Code workflow in repo** → Skill; **cross-host reusable template
 - [MCP Introduction](../06-mcp/introduction.md)
 - [MCP Tools](../06-mcp/tools.md)
 - [Agent SDK](../05-sdk/agent-sdk.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

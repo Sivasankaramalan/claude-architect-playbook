@@ -133,3 +133,7 @@ Anthropic retires older model snapshots. Production checklist:
 - [Optimization](../09-performance/optimization.md)
 - [Cost Control](../09-performance/cost-control.md)
 - [Caching](../09-performance/caching.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

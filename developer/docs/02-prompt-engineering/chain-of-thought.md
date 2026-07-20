@@ -146,3 +146,7 @@ Single-message "think then JSON" works for moderate complexity; chaining reduces
 - [Structured Prompts](./structured-prompts.md)
 - [Claude Models](../01-foundations/claude-models.md)
 - [Tool Use](../04-agent-engineering/tool-use.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

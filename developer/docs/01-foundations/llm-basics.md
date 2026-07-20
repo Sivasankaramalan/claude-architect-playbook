@@ -123,3 +123,7 @@ Some models support **extended thinking**—internal reasoning tokens before the
 - [Messages API](../03-api/messages-api.md)
 - [Context Window](../09-performance/context-window.md)
 - [Prompting](../02-prompt-engineering/prompting.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

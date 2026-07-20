@@ -151,3 +151,7 @@ Upgrade to stronger enforcement when:
 - [Structured Prompts](./structured-prompts.md)
 - [Prompt Chaining](./prompt-chaining.md)
 - [Prompt Debugging](./prompt-debugging.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

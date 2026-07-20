@@ -122,3 +122,7 @@ See [Evaluations](./evaluations.md) and [Testing](./testing.md).
 - [Hooks](../05-sdk/hooks.md)
 - [Tool Use](../04-agent-engineering/tool-use.md)
 - [Error Handling](../03-api/error-handling.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

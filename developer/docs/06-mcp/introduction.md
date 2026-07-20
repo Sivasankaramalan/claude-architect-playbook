@@ -97,3 +97,7 @@ Built-in tools (Read, Bash, …) ship with the harness. **MCP extends** capabili
 - [MCP Transport](./transport.md)
 - [Skills vs MCP](../07-skills/skills-vs-mcp.md)
 - [Tool Use](../04-agent-engineering/tool-use.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

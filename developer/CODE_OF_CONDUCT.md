@@ -32,3 +32,7 @@ This Code of Conduct applies within project spaces and in public spaces when an 
 ## Attribution
 
 Adapted from the Contributor Covenant, version 2.1.
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

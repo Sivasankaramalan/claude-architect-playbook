@@ -80,3 +80,7 @@ For each practice scenario:
 - [Exam Blueprint](./exam-blueprint.md)
 - [Learning Roadmap](./learning-roadmap.md)
 - [Overview](./overview.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

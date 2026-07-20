@@ -104,3 +104,7 @@ Can combine: agent completes → reflection pass → guardrails.
 - [Chain of Thought](../02-prompt-engineering/chain-of-thought.md)
 - [Testing](../08-production/testing.md)
 - [Production Patterns](./production-patterns.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

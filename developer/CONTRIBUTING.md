@@ -33,3 +33,7 @@ Thanks for helping improve the Claude Certified Developer community guide.
 - Mark stubs clearly if a page is incomplete.
 
 See [`../PUBLICATION_CHECKLIST.md`](../PUBLICATION_CHECKLIST.md).
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

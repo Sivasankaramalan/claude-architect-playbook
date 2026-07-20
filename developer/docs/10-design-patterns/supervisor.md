@@ -110,3 +110,7 @@ See [Manager Pattern](../04-agent-engineering/manager-pattern.md).
 - [Orchestration](./orchestration.md)
 - [Multi-Agent](../04-agent-engineering/multi-agent.md)
 - [Pruning](../09-performance/pruning.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

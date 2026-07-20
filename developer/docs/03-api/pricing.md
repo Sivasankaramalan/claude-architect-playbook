@@ -113,3 +113,7 @@ Tool call **arguments** appear in **output tokens**. Forcing verbose tool JSON i
 - [Caching](../09-performance/caching.md)
 - [Cost Control](../09-performance/cost-control.md)
 - [Model Selection](../01-foundations/claude-models.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

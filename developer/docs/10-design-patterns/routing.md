@@ -97,3 +97,7 @@ Sensitive or injection-suspect inputs → restricted tools, human review queue, 
 - [Architecture](./architecture.md)
 - [Claude Models](../01-foundations/claude-models.md)
 - [Manager Pattern](../04-agent-engineering/manager-pattern.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

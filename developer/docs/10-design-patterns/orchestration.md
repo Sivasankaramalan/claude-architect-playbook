@@ -113,3 +113,7 @@ Config hierarchy affects orchestration behavior—see [Hooks](../05-sdk/hooks.md
 - [Supervisor](./supervisor.md)
 - [Workflow Patterns](../04-agent-engineering/workflow-patterns.md)
 - [Graph Pattern](../04-agent-engineering/graph-pattern.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

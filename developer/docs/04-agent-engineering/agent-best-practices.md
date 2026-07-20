@@ -148,3 +148,7 @@ Enables debugging "agent gave up" or "ran forever."
 - [Guardrails](../08-production/guardrails.md)
 - [Security](../11-best-practices/security.md)
 - [Anti-Patterns](../11-best-practices/anti-patterns.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

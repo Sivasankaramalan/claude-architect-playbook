@@ -141,3 +141,7 @@ Fires when `CLAUDE.md` or `.claude/rules/*.md` loads — observability only, not
 - [MCP Security](../06-mcp/security.md)
 - [MCP Best Practices](../06-mcp/best-practices.md)
 - [Production Guardrails](../08-production/guardrails.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

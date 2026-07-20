@@ -116,3 +116,7 @@ Trace logs often **feed** eval datasets (anonymized failure cases).
 - [Observability](../08-production/observability.md)
 - [Evaluations](../08-production/evaluations.md)
 - [Debugging](../08-production/debugging.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

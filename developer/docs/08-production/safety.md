@@ -122,3 +122,7 @@ Do not rely on the base model to enforce **business rules** (refund limits, role
 - [MCP Security](../06-mcp/security.md)
 - [Hooks](../05-sdk/hooks.md)
 - [Tool Use](../04-agent-engineering/tool-use.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

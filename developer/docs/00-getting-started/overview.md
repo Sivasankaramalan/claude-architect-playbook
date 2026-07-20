@@ -57,3 +57,7 @@ Start with:
 - [Exam Blueprint](./exam-blueprint.md)
 - [Learning Roadmap](./learning-roadmap.md)
 - [Developer track README](../../README.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

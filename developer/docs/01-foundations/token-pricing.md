@@ -160,3 +160,7 @@ Track per feature / customer / model:
 - [Cost Control](../09-performance/cost-control.md)
 - [Context Window](../09-performance/context-window.md)
 - [Optimization](../09-performance/optimization.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

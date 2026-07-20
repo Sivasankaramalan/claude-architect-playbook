@@ -121,3 +121,7 @@ Noisy neighbor one tenant running huge agents → rate limit per API key or work
 - [Latency](./latency.md)
 - [Monitoring](../08-production/monitoring.md)
 - [Rate Limits](../03-api/rate-limits.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

@@ -143,3 +143,7 @@ Small weight, often free points if you use the product.
 - [Learning Roadmap](./learning-roadmap.md)
 - [Exam Strategy](./exam-strategy.md)
 - [Official Resources](./official-resources.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

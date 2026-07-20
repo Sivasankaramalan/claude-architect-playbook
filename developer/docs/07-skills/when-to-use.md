@@ -116,3 +116,7 @@ Precedence for settings/hooks: managed → local → project → user → plugin
 - [Hooks](../05-sdk/hooks.md)
 - [Memory](../05-sdk/memory.md)
 - [Exam Blueprint](../00-getting-started/exam-blueprint.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

@@ -173,3 +173,7 @@ Print or copy the **Pre-Launch** section into your team's release template. Not 
 - [Deployment](../08-production/deployment.md)
 - [Production Patterns](../10-design-patterns/production-patterns.md)
 - [Exam Blueprint](../00-getting-started/exam-blueprint.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

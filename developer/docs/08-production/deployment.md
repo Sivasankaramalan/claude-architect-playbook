@@ -138,3 +138,7 @@ Treat CI agents like production code execution—with sandboxing.
 - [Safety](./safety.md)
 - [Production Patterns](../10-design-patterns/production-patterns.md)
 - [Migration](../11-best-practices/migration.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

@@ -85,3 +85,7 @@ When a question asks how to **ship an autonomous coding agent inside your produc
 - [Skills Overview](../07-skills/overview.md)
 - [Messages API](../03-api/messages-api.md)
 - [Agent Loop](../04-agent-engineering/agent-loop.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

@@ -170,3 +170,7 @@ Mitigations:
 - [Agent Loop](../04-agent-engineering/agent-loop.md)
 - [Workflow Patterns](../04-agent-engineering/workflow-patterns.md)
 - [Orchestrator Workers](../04-agent-engineering/orchestrator-workers.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

@@ -101,3 +101,7 @@ Strong workflow design:
 - [Skills Overview](../07-skills/overview.md)
 - [Skills vs MCP](../07-skills/skills-vs-mcp.md)
 - [Prompting](../02-prompt-engineering/prompting.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

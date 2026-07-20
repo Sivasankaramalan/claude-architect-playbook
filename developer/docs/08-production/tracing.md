@@ -111,3 +111,7 @@ For background agents, use **async context propagation** so tool callbacks retai
 - [Debugging](./debugging.md)
 - [SDK Tracing](../05-sdk/tracing.md)
 - [Latency](../09-performance/latency.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

@@ -126,3 +126,7 @@ Managed policy may restrict which skills or hooks run in enterprise hosts.
 - [Memory](../05-sdk/memory.md)
 - [Hooks](../05-sdk/hooks.md)
 - [MCP Servers](../06-mcp/servers.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

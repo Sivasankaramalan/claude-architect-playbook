@@ -112,3 +112,7 @@ Think like an **application developer**, not an architect:
 - [Exam Blueprint](./exam-blueprint.md)
 - [Exam Strategy](./exam-strategy.md)
 - [Developer README Learning Path](../../README.md#learning-path)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

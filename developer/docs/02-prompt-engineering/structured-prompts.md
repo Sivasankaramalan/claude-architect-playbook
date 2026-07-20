@@ -162,3 +162,7 @@ Models sometimes wrap JSON in ` ```json ` fences despite instructions. Productio
 - [Prompt Chaining](./prompt-chaining.md)
 - [Tool Use](../04-agent-engineering/tool-use.md)
 - [Messages API](../03-api/messages-api.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

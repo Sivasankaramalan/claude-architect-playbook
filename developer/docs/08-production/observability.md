@@ -113,3 +113,7 @@ Anthropic does not replace your APM—you wire OpenTelemetry, Datadog, Langfuse,
 - [Evaluations](./evaluations.md)
 - [SDK Tracing](../05-sdk/tracing.md)
 - [Cost Control](../09-performance/cost-control.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

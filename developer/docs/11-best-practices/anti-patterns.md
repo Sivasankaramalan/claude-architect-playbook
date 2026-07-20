@@ -151,3 +151,7 @@ Run architecture reviews with anti-pattern checklist; block launch on **god tool
 - [Don'ts](./donts.md)
 - [Production Patterns](../10-design-patterns/production-patterns.md)
 - [Guardrails](../08-production/guardrails.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

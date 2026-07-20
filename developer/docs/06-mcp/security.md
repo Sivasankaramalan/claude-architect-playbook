@@ -118,3 +118,7 @@ Malicious content in **resources** or tool results can instruct the model to mis
 - [Hooks](../05-sdk/hooks.md)
 - [Production Safety](../08-production/safety.md)
 - [Security Best Practices](../11-best-practices/security.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

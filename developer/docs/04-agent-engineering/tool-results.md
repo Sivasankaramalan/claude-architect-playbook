@@ -140,3 +140,7 @@ Model continues until **`stop_reason: end_turn`**.
 - [Error Handling](../03-api/error-handling.md)
 - [Messages API](../03-api/messages-api.md)
 - [Agent Best Practices](./agent-best-practices.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

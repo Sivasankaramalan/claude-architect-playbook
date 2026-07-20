@@ -98,3 +98,7 @@ Tool results can include **extracted text snippets** from files your tools proce
 - [Messages API](./messages-api.md)
 - [Rate Limits](./rate-limits.md)
 - [Security](../08-production/safety.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

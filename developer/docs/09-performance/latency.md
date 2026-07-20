@@ -121,3 +121,7 @@ Separate **TTFT** (streaming) from **task completion** (agent). Agent SLOs inclu
 - [Routing](../10-design-patterns/routing.md)
 - [Streaming](../03-api/streaming.md)
 - [Claude Models](../01-foundations/claude-models.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

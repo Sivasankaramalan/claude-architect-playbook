@@ -117,3 +117,7 @@ Server runs independently:
 - [MCP Security](./security.md)
 - [MCP Best Practices](./best-practices.md)
 - [Agent SDK](../05-sdk/agent-sdk.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

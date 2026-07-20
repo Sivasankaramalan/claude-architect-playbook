@@ -17,3 +17,7 @@ All notable changes to the Developer track will be documented here.
 
 - Content is original educational summary — not Skilljar lesson text or exam dumps
 - Model IDs, pricing, and beta features change; pages point readers to official docs to verify
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

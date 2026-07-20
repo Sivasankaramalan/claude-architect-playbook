@@ -107,3 +107,7 @@ Same loop invariants:
 - [Hooks](../05-sdk/hooks.md)
 - [Anti-Patterns](../11-best-practices/anti-patterns.md)
 - [Evaluations](../08-production/evaluations.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

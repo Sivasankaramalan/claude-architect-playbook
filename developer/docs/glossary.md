@@ -195,3 +195,7 @@ Shared vocabulary for the **Claude Certified Developer – Foundations (CCDV F)*
 - [Messages API](../03-api/messages-api.md)
 - [Agent Loop](../04-agent-engineering/agent-loop.md)
 - [MCP Introduction](../06-mcp/introduction.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

@@ -112,3 +112,7 @@ When many workers retry 429 simultaneously, limits worsen — combine backoff wi
 - [Messages API](./messages-api.md)
 - [Tool Results](../04-agent-engineering/tool-results.md)
 - [Agent Loop](../04-agent-engineering/agent-loop.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

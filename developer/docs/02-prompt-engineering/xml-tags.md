@@ -163,3 +163,7 @@ If user content contains `</document>`-like sequences:
 - [Few-Shot Examples](./few-shot.md)
 - [Prompt Chaining](./prompt-chaining.md)
 - [Security](../11-best-practices/security.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

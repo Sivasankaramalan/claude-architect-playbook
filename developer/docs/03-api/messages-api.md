@@ -148,3 +148,7 @@ Use `tool` / `any` when the exam says **guarantee**, **must invoke**, or **force
 - [Rate Limits](./rate-limits.md)
 - [Vision](./vision.md)
 - [Files](./files.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

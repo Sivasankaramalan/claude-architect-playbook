@@ -196,3 +196,7 @@ Exams often offer a **simple API fix** disguised among heavy rewrites.
 - [Error Handling](../03-api/error-handling.md)
 - [Evaluations](../08-production/evaluations.md)
 - [Debugging](../08-production/debugging.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

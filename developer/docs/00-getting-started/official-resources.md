@@ -39,3 +39,7 @@ Cross-check any community numbers against Skilljar / Anthropic before relying on
 - [Exam Blueprint](./exam-blueprint.md)
 - [Certification Path](./certification-path.md)
 - [Publication Checklist](../../../PUBLICATION_CHECKLIST.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

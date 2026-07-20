@@ -161,3 +161,7 @@ Failed tool → still append `tool_result` with **`is_error: true`** — model m
 - [Messages API](../03-api/messages-api.md)
 - [Error Handling](../03-api/error-handling.md)
 - [Streaming](../03-api/streaming.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

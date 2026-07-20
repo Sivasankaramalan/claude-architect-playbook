@@ -102,3 +102,7 @@ MCP supports resource **subscription** notifications when data changes — usefu
 - [MCP Introduction](./introduction.md)
 - [Context Window](../09-performance/context-window.md)
 - [Prompt Caching](../02-prompt-engineering/prompt-caching.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

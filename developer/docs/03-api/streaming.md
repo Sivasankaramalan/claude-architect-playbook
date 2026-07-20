@@ -110,3 +110,7 @@ One assistant turn can stream **multiple** `tool_use` blocks. Accumulate each bl
 - [Tool Use](../04-agent-engineering/tool-use.md)
 - [Error Handling](./error-handling.md)
 - [Latency](../09-performance/latency.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

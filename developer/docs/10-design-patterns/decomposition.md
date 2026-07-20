@@ -119,3 +119,7 @@ Exam trap: fancy decomposition when **one loop + one tool** suffices.
 - [Parallelization](./parallelization.md)
 - [Pruning](../09-performance/pruning.md)
 - [Orchestrator-Workers](../04-agent-engineering/orchestrator-workers.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

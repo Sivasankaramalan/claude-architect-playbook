@@ -101,3 +101,7 @@ Streaming requests count toward **RPM and TPM** like synchronous calls — strea
 - [Message API](./messages-api.md)
 - [Agent Loop](../04-agent-engineering/agent-loop.md)
 - [Caching](../09-performance/caching.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

@@ -124,3 +124,7 @@ See [Monitoring](../08-production/monitoring.md).
 - [Latency](./latency.md)
 - [Context Window](./context-window.md)
 - [Optimization](./optimization.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

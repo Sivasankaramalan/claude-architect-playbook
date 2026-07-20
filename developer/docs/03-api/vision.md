@@ -107,3 +107,7 @@ Vision does not change the agent loop:
 - [PDF](./pdf.md)
 - [Context Window](../09-performance/context-window.md)
 - [Tool Use](../04-agent-engineering/tool-use.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

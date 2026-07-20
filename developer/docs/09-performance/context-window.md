@@ -104,3 +104,7 @@ If task needs **reasoning over huge corpus in one shot**, large-context Sonnet/O
 - [Optimization](./optimization.md)
 - [Token Pricing](../01-foundations/token-pricing.md)
 - [Prompt Caching](../02-prompt-engineering/prompt-caching.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

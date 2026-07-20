@@ -136,3 +136,7 @@ Know **resume/continue** applies per session your app stores — not magic cross
 - [Agent Basics](./agent-basics.md)
 - [Rate Limits](../03-api/rate-limits.md)
 - [Sessions](../05-sdk/sessions.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

@@ -113,3 +113,7 @@ Each round: check `stop_reason` — only stop agent on `end_turn`.
 - [Tool Use](../04-agent-engineering/tool-use.md)
 - [Tool Results](../04-agent-engineering/tool-results.md)
 - [Context Window](../09-performance/context-window.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

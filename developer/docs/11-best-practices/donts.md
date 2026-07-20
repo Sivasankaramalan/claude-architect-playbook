@@ -81,3 +81,7 @@ Use don'ts as **code review labels**. If a PR triggers three or more, escalate d
 - [Anti-Patterns](./anti-patterns.md)
 - [Security](./security.md)
 - [Safety](../08-production/safety.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

@@ -108,3 +108,7 @@ Long-term factual memory beyond files → usually **MCP resources/tools** or you
 - [Skills Structure](../07-skills/structure.md)
 - [Context Window](../09-performance/context-window.md)
 - [Pruning](../09-performance/pruning.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

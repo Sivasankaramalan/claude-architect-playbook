@@ -127,3 +127,7 @@ Another: continuing the loop after `end_turn` because the client ignores `stop_r
 - [Prompt Debugging](../02-prompt-engineering/prompt-debugging.md)
 - [Error Handling](../03-api/error-handling.md)
 - [Tool Results](../04-agent-engineering/tool-results.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

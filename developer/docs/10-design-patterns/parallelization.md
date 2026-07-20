@@ -97,3 +97,7 @@ Pass **summaries** to aggregator, not raw worker logs.
 - [Latency](../09-performance/latency.md)
 - [Orchestrator-Workers](../04-agent-engineering/orchestrator-workers.md)
 - [Rate Limits](../03-api/rate-limits.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

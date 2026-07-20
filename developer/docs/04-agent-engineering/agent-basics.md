@@ -122,3 +122,7 @@ Exam scenarios with **"production-safe"** often imply approval gates — [agent-
 - [Workflow Patterns](./workflow-patterns.md)
 - [Messages API](../03-api/messages-api.md)
 - [Agent Best Practices](./agent-best-practices.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

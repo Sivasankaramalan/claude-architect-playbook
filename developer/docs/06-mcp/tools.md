@@ -121,3 +121,7 @@ Agents should not all receive every MCP tool — **scope by responsibility**.
 - [Tool Use](../04-agent-engineering/tool-use.md)
 - [Tool Results](../04-agent-engineering/tool-results.md)
 - [Hooks](../05-sdk/hooks.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

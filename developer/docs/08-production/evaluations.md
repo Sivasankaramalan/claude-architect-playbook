@@ -138,3 +138,7 @@ Avoid optimizing only **BLEU-like text similarity** when business logic is tool-
 - [Guardrails](./guardrails.md)
 - [Agent Best Practices](../04-agent-engineering/agent-best-practices.md)
 - [Structured Prompts](../02-prompt-engineering/structured-prompts.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

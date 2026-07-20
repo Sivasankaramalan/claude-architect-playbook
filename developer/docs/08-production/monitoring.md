@@ -123,3 +123,7 @@ Tune to your product; document error budget policy.
 - [Evaluations](./evaluations.md)
 - [Cost Control](../09-performance/cost-control.md)
 - [Rate Limits](../03-api/rate-limits.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

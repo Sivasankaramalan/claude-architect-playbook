@@ -115,3 +115,7 @@ See [Safety](../08-production/safety.md).
 - [Production Patterns](./production-patterns.md)
 - [Workflow Patterns](../04-agent-engineering/workflow-patterns.md)
 - [MCP Architecture](../06-mcp/architecture.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

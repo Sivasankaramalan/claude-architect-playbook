@@ -139,3 +139,7 @@ Full tool schemas ship on **every request** — keep descriptions clear but conc
 - [Messages API](../03-api/messages-api.md)
 - [MCP Tools](../06-mcp/tools.md)
 - [Error Handling](../03-api/error-handling.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

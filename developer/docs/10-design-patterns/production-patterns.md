@@ -136,3 +136,7 @@ Don't skip steps 1–2's guardrails when jumping to 4.
 - [Optimization](../09-performance/optimization.md)
 - [Checklist](../11-best-practices/checklist.md)
 - [Anti-Patterns](../11-best-practices/anti-patterns.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

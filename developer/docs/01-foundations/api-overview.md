@@ -174,3 +174,7 @@ SDKs provide typed requests, streaming helpers, and retries. Exams may show pseu
 - [LLM Basics](./llm-basics.md)
 - [Token Pricing](./token-pricing.md)
 - [Prompt Caching](../02-prompt-engineering/prompt-caching.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

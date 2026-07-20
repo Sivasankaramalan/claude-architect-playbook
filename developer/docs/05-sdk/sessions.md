@@ -106,3 +106,7 @@ Shell hooks can inject environment context at **SessionStart** (recent git log, 
 - [Agent Loop](../04-agent-engineering/agent-loop.md)
 - [Context Window](../09-performance/context-window.md)
 - [Tracing](./tracing.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

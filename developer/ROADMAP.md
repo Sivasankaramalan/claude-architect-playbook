@@ -22,3 +22,7 @@
 - [ ] Periodic refresh against official model/pricing/API changelogs
 
 Track progress in [`CHANGELOG.md`](./CHANGELOG.md).
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

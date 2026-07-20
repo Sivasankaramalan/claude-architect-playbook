@@ -139,3 +139,7 @@ For languages without the SDK, public docs note running **Claude Code CLI** with
 - [Tool Use](../04-agent-engineering/tool-use.md)
 - [Multi-Agent](../04-agent-engineering/multi-agent.md)
 - [MCP Introduction](../06-mcp/introduction.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

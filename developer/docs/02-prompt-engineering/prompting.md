@@ -155,3 +155,7 @@ Tool definitions are part of the prompt budget—keep descriptions precise.
 - [Chain of Thought](./chain-of-thought.md)
 - [Prompt Chaining](./prompt-chaining.md)
 - [Prompt Debugging](./prompt-debugging.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

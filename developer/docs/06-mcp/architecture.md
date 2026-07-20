@@ -109,3 +109,7 @@ Hooks can intercept MCP tool names like any other tool (PreToolUse / PostToolUse
 - [MCP Tools](./tools.md)
 - [MCP Security](./security.md)
 - [Agent Loop](../04-agent-engineering/agent-loop.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

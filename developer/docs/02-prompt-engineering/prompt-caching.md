@@ -173,3 +173,7 @@ Version prompts (`system_prompt_v17`) and bump cache intentionally.
 - [Prompting](./prompting.md)
 - [Few-Shot Examples](./few-shot.md)
 - [API Overview](../01-foundations/api-overview.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

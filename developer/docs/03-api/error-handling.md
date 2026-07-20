@@ -148,3 +148,7 @@ Mid-stream failures may lack final `stop_reason`:
 - [Tool Results](../04-agent-engineering/tool-results.md)
 - [Agent Loop](../04-agent-engineering/agent-loop.md)
 - [Debugging](../08-production/debugging.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

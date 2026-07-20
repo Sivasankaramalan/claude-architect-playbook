@@ -134,3 +134,7 @@ LangGraph-style frameworks compile graphs to executable workflows. CCDV F tests 
 - [Orchestrator–Workers](./orchestrator-workers.md)
 - [Routing](../10-design-patterns/routing.md)
 - [Agent Loop](./agent-loop.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

@@ -132,3 +132,7 @@ Don't confuse batch API with workflow orchestration.
 - [Orchestration](../10-design-patterns/orchestration.md)
 - [Reflection](../10-design-patterns/reflection.md)
 - [Routing](../10-design-patterns/routing.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

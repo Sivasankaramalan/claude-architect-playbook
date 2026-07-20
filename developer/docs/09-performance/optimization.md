@@ -117,3 +117,7 @@ Use when task needs deliberate reasoning and latency budget allows. Disable for 
 - [Pruning](./pruning.md)
 - [Claude Models](../01-foundations/claude-models.md)
 - [Production Patterns](../10-design-patterns/production-patterns.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

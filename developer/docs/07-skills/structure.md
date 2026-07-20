@@ -111,3 +111,7 @@ Slash commands are **user-invoked** shortcuts. Skills are **model-selected** (or
 - [Skills Packaging](./packaging.md)
 - [Memory (CLAUDE.md)](../05-sdk/memory.md)
 - [Hooks](../05-sdk/hooks.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

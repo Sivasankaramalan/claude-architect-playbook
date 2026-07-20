@@ -83,3 +83,7 @@ These do's are intentionally overlapping with [Checklist](./checklist.md)—use 
 - [Checklist](./checklist.md)
 - [Security](./security.md)
 - [Exam Strategy](../00-getting-started/exam-strategy.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

@@ -115,3 +115,7 @@ On validation or auth failure: **deny** action, return structured error—don't 
 - [Do's](./dos.md)
 - [Don'ts](./donts.md)
 - [MCP Security](../06-mcp/security.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

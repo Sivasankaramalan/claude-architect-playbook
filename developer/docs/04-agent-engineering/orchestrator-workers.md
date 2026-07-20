@@ -124,3 +124,7 @@ Always include **aggregation step** in orchestrator prompt or final tool.
 - [Parallelization](../10-design-patterns/parallelization.md)
 - [Agent Loop](./agent-loop.md)
 - [Tool Use](./tool-use.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

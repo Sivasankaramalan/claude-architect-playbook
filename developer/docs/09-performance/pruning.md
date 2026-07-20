@@ -122,3 +122,7 @@ The model still sees actionable state; tokens drop dramatically.
 - [Memory](../05-sdk/memory.md)
 - [Sessions](../05-sdk/sessions.md)
 - [Supervisor Pattern](../10-design-patterns/supervisor.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

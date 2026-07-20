@@ -116,3 +116,7 @@ When moving eval datasets:
 - [Testing](../08-production/testing.md)
 - [Optimization](../09-performance/optimization.md)
 - [Checklist](./checklist.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.

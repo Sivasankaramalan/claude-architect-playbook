@@ -129,3 +129,7 @@ Subagent `end_turn` alone does **not** finish user request — manager must synt
 - [Supervisor](../10-design-patterns/supervisor.md)
 - [Agent Loop](./agent-loop.md)
 - [Agent Best Practices](./agent-best-practices.md)
+
+---
+
+Copyright (c) 2026 Sivasankaramalan Gunasekarasivam. Licensed under the MIT License.
